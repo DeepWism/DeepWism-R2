@@ -47,7 +47,7 @@ Multi-Domain Generalization: Robust performance across diverse problem domains i
 AI Explainability: Transparent decision-making processes through entropy dynamics
 
 <p align="center">
-  <img width="90%" src="https://hpar2.axon.com.cn/img/score2.png">
+  <img width="100%" src="https://hpar2.axon.com.cn/img/score3.png">
 </p>
 
 ## 2. Summary
@@ -101,21 +101,21 @@ DeepWism® R2 demonstrates exceptional performance across multiple challenging b
 ## 4. Chat Website
 Experience DeepWism® R2's revolutionary capabilities through our interactive platforms:
 
-🌐 Chat Interface: [hpar2.axon.com.cn](https://hpar2.axon.com.cn/)
+🌐 Chat Interface: [i.deepwism.com](https://i.deepwism.com/)
 
 -  Real-time interaction with DeepWism® R2
 -  Entropy visualization in reasoning processes
 -  Multi-domain problem-solving capabilities
 
 
-## 5. License
+<!-- ## 5. License
 This repository and DeepWism® R2 model weights are licensed under the MIT License.
 Commercial and Research Use:
 
 -  ✅ Commercial applications permitted
 -  ✅ Modifications and derivative works allowed
 -  ✅ Distillation for training other models supported
--  ✅ Open research and academic use encouraged
+-  ✅ Open research and academic use encouraged -->
 
 Attribution Requirements:
 
@@ -132,13 +132,13 @@ bibtexCopy@article{DeepWism®2025hpar2,
   url={https://arxiv.org/abs/2025.xxxxx}
 } -->
 
-## 6. Contact
+## 5. Contact
 For questions, collaborations, or support regarding DeepWism® R2 and the Rica framework:
--  📧 Primary Contact: r2@DeepWism.com
+-  📧 Primary Contact: r2@deepwism.com
  
 -  🏢 DeepWism® AI
 
-Website: www.DeepWism.com
+Website: www.deepwism.com
 
 GitHub Issues: Report bugs or request features
 Twitter: @DeepWism
