@@ -2,7 +2,7 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 <div align="center">
-  <img src="https://hpar2.axon.com.cn/img/git_logo4.jpg" width="80%" alt="DeepWism® R2" />
+  <img src="https://hpar2.axon.com.cn/img/git_logo5.jpg" width="80%" alt="DeepWism® R2" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
@@ -13,6 +13,8 @@
   <br>
   <a href="https://x.com/DeepWism®AI" target="_blank"><img alt="Twitter Follow"
     src="https://img.shields.io/badge/Twitter-DeepWism®-white?logo=x&logoColor=white"/></a>
+    <a href="https://hpar2.axon.com.cn/img/wechat.jpg" target="_blank"><img alt="WeChat"
+    src="https://img.shields.io/badge/WeChat-DeepWism®-brightgreen?logo=wechat&logoColor=white"/></a>
   <br>
   
   <br><br>
