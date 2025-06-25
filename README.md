@@ -6,12 +6,12 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.DeepWism®.com/" target="_blank"><img alt="Homepage"
+  <a href="https://www.DeepWism.com/" target="_blank"><img alt="Homepage"
     src="https://img.shields.io/badge/🏠%20Homepage-DeepWism®-blue?color=4285f4&logoColor=white"/></a>
-  <a href="https://hpar2.axon.com.cn/home/" target="_blank"><img alt="Chat"
+  <a href="https://i.deepwism.com" target="_blank"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepWism®%20R2-ff6b35?color=ff6b35&logoColor=white"/></a>
   <br>
-  <a href="https://x.com/DeepWism®AI" target="_blank"><img alt="Twitter Follow"
+  <a href="https://x.com/DeepWismAI" target="_blank"><img alt="Twitter Follow"
     src="https://img.shields.io/badge/Twitter-DeepWism®-white?logo=x&logoColor=white"/></a>
     <a href="https://hpar2.axon.com.cn/img/wechat.jpg" target="_blank"><img alt="WeChat"
     src="https://img.shields.io/badge/WeChat-DeepWism®-brightgreen?logo=wechat&logoColor=white"/></a>
