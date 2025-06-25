@@ -47,7 +47,7 @@ Multi-Domain Generalization: Robust performance across diverse problem domains i
 AI Explainability: Transparent decision-making processes through entropy dynamics
 
 <p align="center">
-  <img width="90%" src="https://hpar2.axon.com.cn/img/score3.png">
+  <img width="95%" src="https://hpar2.axon.com.cn/img/score4.png">
 </p>
 
 ## 2. Summary
