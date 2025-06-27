@@ -2,7 +2,7 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 <div align="center">
-  <img src="https://hpar2.axon.com.cn/img/git_logo6.jpg" width="80%" alt="DeepWism® R2" />
+  <img src="https://hpar2.axon.com.cn/img/git_logo7.jpg" width="80%" alt="DeepWism® R2" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
