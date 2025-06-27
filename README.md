@@ -133,10 +133,7 @@ bibtexCopy@article{DeepWism®2025hpar2,
 } -->
 
 ## 5. Contact
-For questions, collaborations, or support regarding DeepWism® R2 and the Rica framework:
--  📧 Primary Contact: r2@deepwism.com
- 
--  🏢 DeepWism® AI
+For questions, collaborations, or support ，please contact us at: r2@deepwism.com
 
 Website: www.deepwism.com
 
