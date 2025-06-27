@@ -88,9 +88,9 @@ DeepWism® R2 demonstrates exceptional performance across multiple challenging b
 
 ### 🔑 Key Performance Highlights
 
-* 🧪 **xbench-ScienceQA**: **70.0%** accuracy, leading all models on complex scientific question answering
-* 🔍 **xbench-DeepSearch**: **64.0%** accuracy, demonstrating top-tier deep retrieval and reasoning capabilities
-* 🏆 **Humanity's Last Exam (HLE)**: **27.5%** accuracy, surpassing all existing models including OpenAI DeepResearch
+* 🏆 **Humanity's Last Exam (HLE): 27.5%** accuracy, surpassing all existing models including OpenAI DeepResearch
+* 🧪 **xbench-ScienceQA: 70.0%** accuracy, leading all models on complex scientific question answering
+* 🔍 **xbench-DeepSearch: 64.0%** accuracy, demonstrating top-tier deep retrieval and reasoning capabilities
 * 📊 **AIME2025**: **93.3%** accuracy, showcasing exceptional mathematical reasoning capabilities
 * 🔬 **GPQA-Diamond**: **88.0%** accuracy, indicating superior performance in graduate-level science questions
 * 📚 **MMLU**: **86.0%** accuracy, reflecting strong multi-domain knowledge understanding
@@ -117,11 +117,11 @@ Commercial and Research Use:
 -  ✅ Distillation for training other models supported
 -  ✅ Open research and academic use encouraged -->
 
-Attribution Requirements:
+<!-- Attribution Requirements:
 
 Please cite our work when using DeepWism® R2 or the Rica framework
 Acknowledge DeepWism® AI in derivative works
-Share improvements back to the community when possible
+Share improvements back to the community when possible -->
 
 <!-- ## 6. Citation
 bibtexCopy@article{DeepWism®2025hpar2,
